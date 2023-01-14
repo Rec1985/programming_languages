@@ -1,7 +1,7 @@
-﻿
-Console.WriteLine("Введите первое натуральное число: ");
+﻿Console.WriteLine("--------------------ЯВЛЯЕТСЯ ЛИ ПЕРВОЕ КВАДРАТОМ ВТОРОГО--------------------");
+Console.Write("Введите первое натуральное число: ");
 int number = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите второе натуральное число: ");
+Console.Write("Введите второе натуральное число: ");
 int number2 = Convert.ToInt32(Console.ReadLine());
 
 if(number == number2 * number2)
