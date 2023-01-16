@@ -1,4 +1,4 @@
-﻿
+﻿Console.WriteLine("--------------------ВЫВОД ЦЕЛЫХ ЧИСЕЛ В ПРОМЕЖУТКЕ ОТ -N ДО N--------------------");
 Console.Write("Введите натуральное число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 if (number > 0)

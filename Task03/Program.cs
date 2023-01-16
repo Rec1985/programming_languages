@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите натуральное число от 1 до 7");
+﻿Console.WriteLine("--------------------НАЗВАНИЕ ДНЯ НЕДЕЛИ ПО ЗАДАННОМУ НОМЕРУ--------------------");
+Console.WriteLine("Введите натуральное число от 1 до 7");
 int numberWeek = Convert.ToInt32(Console.ReadLine());
 
 
