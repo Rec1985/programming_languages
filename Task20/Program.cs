@@ -1,4 +1,5 @@
 ﻿ 
+Console.Clear();
 Console.Write("ВВедите координату X1: ");
 int x1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("ВВедите координату Y1: ");
@@ -9,7 +10,7 @@ Console.Write("ВВедите координату Y2: ");
 int y2 = Convert.ToInt32(Console.ReadLine());
 
 double result = Distance(x1, y1, x2, y2);
-double endResult = Math.Round(result, 2, MidpointRounding.ToZero);
+double endResult = Math.Round(result, 2, MidpointRounding.ToZero); // Округляем до 2х знаков
 Console.Write($"A ({x1}, {y1}); B ({x2}, {x2}) -> ");
 Console.WriteLine($"{endResult}");
 
