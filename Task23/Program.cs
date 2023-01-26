@@ -1,4 +1,5 @@
-﻿Console.Write("Введите натуральное число: ");
+﻿
+Console.Write("Введите натуральное число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 CubeNumber(number);
 
