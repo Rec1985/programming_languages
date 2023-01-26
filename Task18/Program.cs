@@ -1,5 +1,5 @@
 ﻿Console.Write("Введите номер четверти: ");
-string numQuarter = Console.ReadLine();
+string numQuarter = Console.ReadLine()!;
 string result = RangeCoordinates(numQuarter);
 Console.WriteLine(result);
 
