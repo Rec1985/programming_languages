@@ -8,8 +8,8 @@ int countNums = Convert.ToInt32(Console.ReadLine());
 
 int[] queryValue = QueryValue(countNums);
 PrintArray(queryValue);
-int resultSum = SumOfPositiveNumbers(queryValue);
-Console.Write($" -> {resultSum}");
+int resultQuantity = QuantityOfPositiveNumbers(queryValue);
+Console.Write($" -> {resultQuantity}");
 
 
 int[] QueryValue(int numCount)
@@ -25,25 +25,15 @@ int[] QueryValue(int numCount)
     return mass;
 }
 
-int SumOfPositiveNumbers(int[] inMass)
+int QuantityOfPositiveNumbers(int[] inMass)
 {
-    int sum = 0;
+    int quantity = 0;
     for (int i = 0; i < inMass.Length; i++)
     {
-        if(inMass[i] > 0) sum += inMass[i];
+        if(inMass[i] > 0) quantity++;
     }
-    return sum;
+    return quantity;
 }
-
-// int SumOfNegativeNumbers(int[] inMass)
-// {
-//     int sum = 0;
-//     for (int i = 0; i < inMass.Length; i++)
-//     {
-//         if(inMass[i] < 0) sum += inMass[i];
-//     }
-//     return sum;
-// }
 
 void PrintArray (int[] massive) 
 { 
