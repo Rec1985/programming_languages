@@ -1,6 +1,7 @@
 ﻿// Задача 45: Напишите программу, которая будет создавать
 // копию заданного массива с помощью поэлементного
 // копирования.
+
 int[]  genArray = CreateArrayRndInt(10, 0, 255);
 PrintArray(genArray);
 Console.WriteLine();
