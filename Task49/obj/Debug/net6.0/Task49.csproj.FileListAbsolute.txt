@@ -1,0 +1,15 @@
+C:\Users\NIKA30\OneDrive\Рабочий стол\Home Work\programming_languages\Task49\bin\Debug\net6.0\Task49.exe
+C:\Users\NIKA30\OneDrive\Рабочий стол\Home Work\programming_languages\Task49\bin\Debug\net6.0\Task49.deps.json
+C:\Users\NIKA30\OneDrive\Рабочий стол\Home Work\programming_languages\Task49\bin\Debug\net6.0\Task49.runtimeconfig.json
+C:\Users\NIKA30\OneDrive\Рабочий стол\Home Work\programming_languages\Task49\bin\Debug\net6.0\Task49.dll
+C:\Users\NIKA30\OneDrive\Рабочий стол\Home Work\programming_languages\Task49\bin\Debug\net6.0\Task49.pdb
+C:\Users\NIKA30\OneDrive\Рабочий стол\Home Work\programming_languages\Task49\obj\Debug\net6.0\Task49.csproj.AssemblyReference.cache
+C:\Users\NIKA30\OneDrive\Рабочий стол\Home Work\programming_languages\Task49\obj\Debug\net6.0\Task49.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKA30\OneDrive\Рабочий стол\Home Work\programming_languages\Task49\obj\Debug\net6.0\Task49.AssemblyInfoInputs.cache
+C:\Users\NIKA30\OneDrive\Рабочий стол\Home Work\programming_languages\Task49\obj\Debug\net6.0\Task49.AssemblyInfo.cs
+C:\Users\NIKA30\OneDrive\Рабочий стол\Home Work\programming_languages\Task49\obj\Debug\net6.0\Task49.csproj.CoreCompileInputs.cache
+C:\Users\NIKA30\OneDrive\Рабочий стол\Home Work\programming_languages\Task49\obj\Debug\net6.0\Task49.dll
+C:\Users\NIKA30\OneDrive\Рабочий стол\Home Work\programming_languages\Task49\obj\Debug\net6.0\refint\Task49.dll
+C:\Users\NIKA30\OneDrive\Рабочий стол\Home Work\programming_languages\Task49\obj\Debug\net6.0\Task49.pdb
+C:\Users\NIKA30\OneDrive\Рабочий стол\Home Work\programming_languages\Task49\obj\Debug\net6.0\Task49.genruntimeconfig.cache
+C:\Users\NIKA30\OneDrive\Рабочий стол\Home Work\programming_languages\Task49\obj\Debug\net6.0\ref\Task49.dll
