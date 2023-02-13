@@ -45,12 +45,12 @@ void PrintArray(double[] arr)
 
 int[,] CreateMatrixRndInt(int rows, int columns, int min, int max)
 {
-    int[,] matrix = new int[rows, columns];///  0,1,
+    int[,] matrix = new int[rows, columns];
     Random rnd = new Random();
 
-    for (int i = 0; i < matrix.GetLength(0); i++)//цикл проходит по строкам// чтобы пройтись по столбцам нужно поменять цикли и i и j
+    for (int i = 0; i < matrix.GetLength(0); i++)
     {
-        for (int j = 0; j < matrix.GetLength(1); j++)/// циул проходит по столбцам
+        for (int j = 0; j < matrix.GetLength(1); j++)
         {
             matrix[i, j] = rnd.Next(min, max + 1);
         }
@@ -66,7 +66,7 @@ void PrintMatrix(int[,] matrix)
         Console.Write("|");
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            if (j < matrix.GetLength(1) - 1) Console.Write($"{matrix[i, j],4} ");// 4--- это форматирование для вывода массива
+            if (j < matrix.GetLength(1) - 1) Console.Write($"{matrix[i, j],4} ");
             else Console.Write($"{matrix[i, j],4} ");
         }
         Console.WriteLine("|");
