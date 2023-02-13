@@ -9,7 +9,7 @@
 // 9 5 3 2
 // 8 4 4 2
 
-int rowsMatrix = 5, columnsMatrix = 4, minMatrix = 0, maxMatrix = 255;
+int rowsMatrix = 4, columnsMatrix = 5, minMatrix = 0, maxMatrix = 255;
 int[,] createMatrixRndInt = CreateMatrixRndInt(rowsMatrix, columnsMatrix, minMatrix, maxMatrix);
 PrintMatrix(createMatrixRndInt);
 Console.WriteLine("----------------------");
@@ -58,7 +58,7 @@ void SortDownArray(int[] inArray)
 
 void MergerArrayToMatrixFromRows(int[] inArray, int[,] inMatrix, int rows)
 {
-    if(true)//inArray.Length == inMatrix.GetLength(1))
+    if(inArray.Length == inMatrix.GetLength(1))
     {
         
         for (int i = 0; i < inMatrix.GetLength(1); i++)
