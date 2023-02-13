@@ -9,15 +9,13 @@ ReplacementMatrix(matrix);
 PrintMatrix(matrix);
 
 void ReplacementMatrix(int[,] matrixMassIn)
-{
-    
+{    
     for (int i = 0; i < matrixMassIn.GetLength(1); i++)
     {
         int temp = matrixMassIn[0,i];
         matrixMassIn[0,i] = matrixMassIn[matrixMassIn.GetLength(0)-1,i];
         matrixMassIn[matrixMassIn.GetLength(0)-1,i] = temp;
     }
-
 }
 
 void PrintMatrix(int[,] matrix)
