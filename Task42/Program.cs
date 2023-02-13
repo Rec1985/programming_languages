@@ -4,8 +4,6 @@
 // 3 -> 11
 // 2 -> 10
 
-
-
 Console.WriteLine("Введите десятичное число "); 
 int number = Convert.ToInt32(Console.ReadLine()); 
 string binary = Binary(number); 
