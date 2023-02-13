@@ -27,7 +27,6 @@ int[,] RegulateMatrixRowsDown(int[,] inMatrix)              // Упорядоч�
     return inMatrix;
 }
 
-
 int[] MatrixToArrayFromRows(int[,] inMatrix, int rows)
 {
     int[] newOutArray = new int[inMatrix.GetLength(1)];
@@ -72,8 +71,6 @@ void MergerArrayToMatrixFromRows(int[] inArray, int[,] inMatrix, int rows)
         Console.WriteLine("Ошибка слияния массивов!");
     }    
 }
-
-
 
 int[,] CreateMatrixRndInt(int rows, int columns, int min, int max)
 {
