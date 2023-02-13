@@ -16,7 +16,6 @@ PrintMatrix(mass);
 Console.WriteLine("");
 ReturnValueElement(mass, row, column);
 
-
 void ReturnValueElement(int[,] inArray, int inRows, int inColums)
 {
     if (inRows >= 0 && inColums >= 0)
@@ -35,10 +34,10 @@ void ReturnValueElement(int[,] inArray, int inRows, int inColums)
 
 int[,] CreateMatrixRndInt(int rows, int columns, int min, int max)
 {
-    int[,] matrix = new int[rows, columns];///  0,1,
+    int[,] matrix = new int[rows, columns];
     Random rnd = new Random();
 
-    for (int i = 0; i < matrix.GetLength(0); i++)//цикл проходит по строкам// чтобы пройтись по столбцам нужно поменять цикли и i и j
+    for (int i = 0; i < matrix.GetLength(0); i++)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
