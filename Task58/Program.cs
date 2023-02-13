@@ -14,8 +14,6 @@ PrintMatrix(createMatrixRndInt2);
 Console.WriteLine("-----------------------");
 PrintMatrixMultiplication(createMatrixRndInt1, createMatrixRndInt2);
 
-
-
 void PrintMatrixMultiplication(int[,] matrix1, int[,] matrix2)
 {
     if(matrix1.GetLength(1) == matrix2.GetLength(0))
