@@ -1,0 +1,15 @@
+C:\Users\rec11\Desktop\HomeWork\Task64\obj\Debug\net6.0\Task64.csproj.AssemblyReference.cache
+C:\Users\rec11\Desktop\HomeWork\Task64\obj\Debug\net6.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rec11\Desktop\HomeWork\Task64\obj\Debug\net6.0\Task64.AssemblyInfoInputs.cache
+C:\Users\rec11\Desktop\HomeWork\Task64\obj\Debug\net6.0\Task64.AssemblyInfo.cs
+C:\Users\rec11\Desktop\HomeWork\Task64\obj\Debug\net6.0\Task64.csproj.CoreCompileInputs.cache
+C:\Users\rec11\Desktop\HomeWork\Task64\bin\Debug\net6.0\Task64.exe
+C:\Users\rec11\Desktop\HomeWork\Task64\bin\Debug\net6.0\Task64.deps.json
+C:\Users\rec11\Desktop\HomeWork\Task64\bin\Debug\net6.0\Task64.runtimeconfig.json
+C:\Users\rec11\Desktop\HomeWork\Task64\bin\Debug\net6.0\Task64.dll
+C:\Users\rec11\Desktop\HomeWork\Task64\bin\Debug\net6.0\Task64.pdb
+C:\Users\rec11\Desktop\HomeWork\Task64\obj\Debug\net6.0\Task64.dll
+C:\Users\rec11\Desktop\HomeWork\Task64\obj\Debug\net6.0\refint\Task64.dll
+C:\Users\rec11\Desktop\HomeWork\Task64\obj\Debug\net6.0\Task64.pdb
+C:\Users\rec11\Desktop\HomeWork\Task64\obj\Debug\net6.0\Task64.genruntimeconfig.cache
+C:\Users\rec11\Desktop\HomeWork\Task64\obj\Debug\net6.0\ref\Task64.dll
